@@ -1,6 +1,6 @@
 ![Adikasa](img/github-header-image.png)
 ## Tentang ADIKASA 👋
-**Adikasa/adikasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Adidaya Kreasi Digital** bergerak ✨ _special_ ✨ bergerak pada bidang Konsultan IT, Pendidikan dan Pelatihan, Penerbitan, Percetakan umum dan Desain Grafis, Pembuatan Website, Software, Game dan Aplikasi lainnya. Seiring dengan pesatnya perkembangan teknologi dan keterkaitan nya dengan bidang usaha, Adikasa hadir di dunia Teknologi Informasi untuk memberikan Solusi, Perencanaan, dan Strategi yang terintegerasi, sebagai nilai tambah yang maksimal bagi kebutuhan dan permasalahan dibidang Teknologi Informasi.
 <!--
 **Adikasa/adikasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
