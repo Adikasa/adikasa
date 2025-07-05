@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 Projek yang sedang berjalan: **@ultracomdeprasti**, **@smkn1gunungsindur**, **@depokhostinger**.
-- 📫 Hubungi Kami [Adiadayadigital.com](https://adidayadigital.com/), [**+62 812 101 101 60**], [**info@adidayadigital.com**]
+- 📫 Hubungi Kami [Adiadayadigital.com](https://adidayadigital.com/), **+62 812 101 101 60**, **info@adidayadigital.com**
