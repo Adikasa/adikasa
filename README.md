@@ -1,8 +1,5 @@
 ![Adikasa](img/github-header-image.png)
-## Tentang ADIKASA 👋
-**Adidaya Kreasi Digital** x ✨ _bergerak_ ✨ pada bidang Konsultan IT, Pendidikan & Pelatihan, Penerbitan Buku, Percetakan umum dan Desain Grafis, Website, Software, Game dan Aplikasi lainnya. Seiring dengan pesatnya perkembangan teknologi dan keterkaitan nya dengan bidang usaha, [Adiadayadigital.com](https://adidayadigital.com/) hadir di dunia Teknologi Informasi untuk memberikan Solusi, Perencanaan, dan Strategi yang terintegerasi, sebagai nilai tambah yang maksimal bagi kebutuhan dan permasalahan dibidang Teknologi Informasi.
-
-# 💫 About Me:
+# 💫 PROFIL ADIKASA:
 Adidaya Kreasi Digital x ✨ bergerak ✨ pada bidang Konsultan IT, Pendidikan & Pelatihan, Penerbitan Buku, Percetakan umum dan Desain Grafis, Website, Software, Game dan Aplikasi lainnya. Seiring dengan pesatnya perkembangan teknologi dan keterkaitan nya dengan bidang usaha, Adiadayadigital.com hadir di dunia Teknologi Informasi untuk memberikan Solusi, Perencanaan, dan Strategi yang terintegerasi, sebagai nilai tambah yang maksimal bagi kebutuhan dan permasalahan dibidang Teknologi Informasi.<br><br>🔭 Projek yang sedang berjalan: @ultracomdeprasti, @smkn1gunungsindur, @depokhostinger.<br>📫 Hubungi Kami Adiadayadigital.com, +62 812 101 101 60, info@adidayadigital.com,<br>Medsos: Instagram, Facebook, Twitter,
 
 
