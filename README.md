@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 Projek yang sedang berjalan: **@ultracomdeprasti**, **@smkn1gunungsindur**, **@depokhostinger**.
 - 📫 Hubungi Kami [Adiadayadigital.com](https://adidayadigital.com/), **+62 812 101 101 60**, **info@adidayadigital.com**,
-- Medsos: [Instagram](https://www.instagram.com/adidayakreasidigital/), [Facebook]([https://www.instagram.com/adidayakreasidigital/](https://www.facebook.com/people/Adi-Daya/100088190787506/)), [Twitter]([[https://www.instagram.com/adidayakreasidigital/](https://www.facebook.com/people/Adi-Daya/100088190787506/)](https://x.com/Adidayadigital)), 
+- Medsos: [Instagram](https://www.instagram.com/adidayakreasidigital/), [Facebook](https://www.facebook.com/people/Adi-Daya/100088190787506/), [Twitter](https://x.com/Adidayadigital), 
