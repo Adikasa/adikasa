@@ -1,5 +1,5 @@
-## Hi there 👋
-
+![Adikasa](img/github-header-image.png)
+## Tentang ADIKASA 👋
 <!--
 **Adikasa/adikasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 Projek yang sedang berjalan: **@ultracomdeprasti**, **@smkn1gunungsindur**, **@depokhostinger**.
+- 📫 Hubungi Kami [Adiadayadigital.com], [**+62 812 101 101 60**], [**info@adidayadigital.com**]
