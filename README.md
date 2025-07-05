@@ -1,5 +1,6 @@
 ![Adikasa](img/github-header-image.png)
 ## Tentang ADIKASA 👋
+**Adikasa/adikasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
 **Adikasa/adikasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
